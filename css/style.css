@@ -1,0 +1,21 @@
+.before {
+  border: 3px lightgray;
+  background-color: white;
+  margin: 100px;
+  padding: 6px;
+  width: 300px;
+  float: left;
+}
+
+.after {
+  border: 3px lightgray;
+  background-color: white;
+  margin: 100px;
+  padding: 6px;
+  width: 300px;
+  float: left;
+}
+
+body {
+  background-color: darkgray
+}
